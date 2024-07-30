@@ -5,7 +5,11 @@
 ## **Others**
 [Rekhta Sufinama](https://www.sufinama.org/)
 
-## **Music**
+## **Blogs**
+
+[Musab Bin Noor](https://lalioutloud.blogspot.com/)
+
+[Qaul](https://qaul.blogspot.com/)
 
 ### **Playlists**
 <details >

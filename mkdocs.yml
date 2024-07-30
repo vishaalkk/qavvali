@@ -1,4 +1,4 @@
-site_name: Qavvali
+site_name: Qavvali | قوَّالی
 site_url: https://qavvali.com/
 site_author: Vishal | وشال
 theme:
@@ -55,4 +55,4 @@ extra_css:
 extra:
   analytics:
     provider: google
-    property: G-EVBZCNM2SN
+    property: G-RWK4ZW9BCD

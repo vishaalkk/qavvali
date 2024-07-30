@@ -4,25 +4,9 @@ on:
     paths:
       - "docs/**"
       - ".yml"
-      - "mkdocs-plugins.txt"
     branches:
       - main
   workflow_dispatch:
-
-# jobs:
-#   build:
-#     name: Deploy docs
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Checkout main
-#         uses: actions/checkout@v3
-
-#       - name: Deploy docs
-#         uses: mhausenblas/mkdocs-deploy-gh-pages@master
-#         # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#           REQUIREMENTS: mkdocs-plugins.txt
 
 permissions:
   contents: write
@@ -31,10 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      # - name: Configure Git Credentials
-      #   run: |
-      #     git config user.name github-actions[bot]
-      #     git config user.email 41898282+github-actions[bot]@users.noreply.github.com
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
@@ -52,4 +32,3 @@ jobs:
         run: mkdocs gh-deploy --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # REQUIREMENTS: mkdocs-plugins.txt

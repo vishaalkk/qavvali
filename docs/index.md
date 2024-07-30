@@ -1,5 +1,5 @@
 ---
-title: Qavvali
+title: Home
 ---
 
 # Welcome to the world of Qavvalis :octicons-heart-fill-24:{ .heart }
