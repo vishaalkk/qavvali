@@ -21,15 +21,13 @@ theme:
     - navigation.instant
     - navigation.tracking
     - toc.follow
-    - navigations.tabs
+    - navigation.tabs
     - search.suggest
     - search.share
     - search.highlight
     - header.autohide
 plugins:
   - search
-  - awesome-pages
-  # - material/meta
   - tags:
       tags_file: tags.md
 markdown_extensions:
