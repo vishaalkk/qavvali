@@ -2,7 +2,7 @@
 title: Home
 ---
 <center>
-# Welcome to the world of Qavvalis :octicons-heart-fill-24:{ .heart }
+# Welcome to the world of Qavvalis :fontawesome-solid-radio:{ .heart }
 </center>
 
 
