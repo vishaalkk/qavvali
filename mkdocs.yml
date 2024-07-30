@@ -3,6 +3,8 @@ site_url: https://qavvali.com/
 site_author: Vishal | وشال
 theme:
   name: material
+  font:
+    text: Albert Sans
   icon:
     logo: material/library
   favicon: images/icons8-poem-stickers-32.png
