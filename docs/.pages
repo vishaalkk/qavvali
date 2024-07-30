@@ -1,6 +1,6 @@
 arrange:
 - index.md
 - translations
-- tags.md
+<!-- - tags.md -->
 - about.md
 - resources.md

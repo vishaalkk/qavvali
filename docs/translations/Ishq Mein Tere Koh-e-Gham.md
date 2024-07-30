@@ -1,22 +1,42 @@
 # Ishq Mein Tere Koh-e-Gham
 ## Hazrat Shah Niyaz (1742-1834).
 
-Ishq mein tere koh-e-gham sar pe liya jo ho so ho  
-aesh-o-nishaat-e-zindagi chhor diya jo ho so ho
+ishq meñ tere koh-e-ġham sar pe liyā jo ho so ho  
+aish-o-nishāt-e-zindagī chhoḌ diyā jo ho so ho 
 
-Laag ki aag lagte hi, Bamba namad yeh jal gaya  
-Rakht-e-wojood-e-jaano tak kuchh na bacha jo ho so ho
+laag kī aag lag uThī pamba namat sā jal gayā  
+raḳht-e-vajūd-e-jān-o-tan kuchh na bachā jo ho so ho 
 
-Aql ke Madrase se uth, Ishq ke Maikade mein aa  
-Jaame Fanaa-o-Bekhudi ab to Piya jo ho so ho
+aql ke madrasa se uTh ishq ke mai-kada meñ aa  
+jām-e-fanā-o-be-ḳhudī ab to piyā jo ho so ho 
 
-Hijr ki jo museebatein, arz kiin uske rubaru  
-Naazo adaa se muskura, kehne lagaa jo ho so ho
+hijr kī jo musībateñ arz kiiñ us ke sāmne  
+nāz-o-adā se muskurā kahne lagā jo ho so ho 
 
-Hasti ke is saraab mein, Raat ki Raat bas rahe  
-Subhe Adam Huaa Numoo, Paaon Uthaa jo ho so ho
+hastī kī is sarā.e meñ raat kī raat jo bas liye  
+sub.h-e-adam huī na ho va paañv uThāo jo ho so ho 
 ________________________________________
-
+<span style="font-family:Jameel Noori Nastaleeq; font-size:1.4em;">
+عشق میں تیرے کوہ غم سر پہ لیا جو ہو سو ہو  
+عیش‌ و نشاط زندگی چھوڑ دیا جو ہو سو ہو 
+<br>
+<br>
+لاگ کی آگ لگ اٹھی پنبہ نمط سا جل گیا  
+رخت وجود جان و تن کچھ نہ بچا جو ہو سو ہو 
+<br>
+<br>
+عقل کے مدرسہ سے اٹھ عشق کے مے کدہ میں آ  
+جام فنا و بے خودی اب تو پیا جو ہو سو ہو 
+<br>
+<br>
+ہجر کی جو مصیبتیں عرض کیں اس کے سامنے  
+ناز و ادا سے مسکرا کہنے لگا جو ہو سو ہو 
+<br>
+<br>
+ہستی کی اس سرائے میں رات کی رات جو بس لیے  
+صبح عدم ہوئی نہ ہو و پاؤں اٹھاؤ جو ہو سو ہو 
+</span>
+________________________________________
 
 Translation: Saqib Mumtaz
 
