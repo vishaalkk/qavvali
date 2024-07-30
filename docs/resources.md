@@ -34,7 +34,3 @@
 <summary><font color=teal; background=white>50 Glorious Classical Years</font></summary>
 <iframe src="https://drive.google.com/embeddedfolderview?id=1y7zWVl57zoV64Hzu82mLjqtkjwcUeVYd#list" width="100%" height="400" frameborder="0" referrerpolicy=origin-when-cross-origin></iframe>
 </details>
-
-
-
-
