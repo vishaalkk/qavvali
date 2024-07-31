@@ -9,3 +9,7 @@
   .heart {
     animation: heart 1000ms infinite;
   }
+
+body {
+  font-family: 'Albert Sans', sans-serif; /* Default font */
+}

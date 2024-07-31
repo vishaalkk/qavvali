@@ -2,7 +2,7 @@
 title: Home
 ---
 <center>
-# Welcome to the world of Qavvalis :fontawesome-solid-radio:{ .heart }
+# Qavvali :fontawesome-solid-radio:{ .heart }
 </center>
 
 

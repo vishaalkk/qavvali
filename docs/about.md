@@ -1,0 +1,1 @@
+This website is merely a compilation of Qawwali-related resources from the recesses of the internet.
