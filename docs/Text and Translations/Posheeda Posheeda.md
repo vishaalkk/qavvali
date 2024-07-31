@@ -14,7 +14,13 @@ ma‘lūm shab-i gẖam kī ḥaqīqat ho jā’e
 be-jurm o ḵẖat̤ā mujh ko miṭāne wāle  
 allāh kare tujh ko muhabbat ho jā’e  
   
-  
+
+For merely two days, if your disposition becomes like mine  
+You will experience the reality of the night of sadness  
+Oh you, destroying me without any crime or fault   
+Godspeed, you may fall in love  
+
+
 اب صبر کرو نالۂ پیہم نہ کرو  
 جب میں ہی نہیں ہوں تو میرا غم نہ کرو  
 یہ اپنی رسوائی ہے اپنے ہاتھوں  
@@ -27,7 +33,13 @@ jab maiṅ hī nahīṅ hūṅ to merā gẖam nah karo
 yih apnī ruswā’ī hai apne hāthon  
 lillāh merī lāsh pih mātam nah karo  
 wuh un ko merā marg-i nā-gahāṅ nā-dīdah nā-dīdah  
-  
+
+Now be patient, and don’t complain constantly  
+If I am not, don’t grieve/mourn me  
+This disgrace is all my doing  
+For God’s sake, don’t mourn over my corpse   
+To them, my sudden death was unpalatable  
+
 
 سب کے ہونٹوں پہ تبسم تھا میرے قتل کے بعد  
 جانے کیا سوچ کے روتا رہا قاتل تنہا  
@@ -35,6 +47,8 @@ wuh un ko merā marg-i nā-gahāṅ nā-dīdah nā-dīdah
 sab ke honṭoṅ pih tabassum thā mere qatl ke ba‘d  
 jāne kyā soch ke rotā rahā qaatil tanhā  
   
+There was a smile on everyone’s lips after my execution  
+Unbeknownst, the killer kept crying in solitude  
 
 جگر بے چین لیکن گفتگو سنجیدہ سنجیدہ  
 عجب مستی بھری آنکھیں مگر ترسیده ترسیده  
